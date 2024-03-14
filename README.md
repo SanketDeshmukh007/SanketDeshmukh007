@@ -32,7 +32,7 @@
   </a>
 <!--   <a href="https://SanketDeshmukh007.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-<!--   </a> --> -->
+<!--   </a> -->
 <!--     </a> -->
   <a href="https://leetcode.com//" target="_blank">
      <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
