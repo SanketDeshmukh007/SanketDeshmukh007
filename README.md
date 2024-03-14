@@ -27,9 +27,9 @@
   <a href="https://linkedin.com/in/sanket-d-31492a249" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://SanketDeshmukh007.github.io" target="_blank">
+<!--   <a href="https://SanketDeshmukh007.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
 </div>
 
  <hr/>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github" />
-    <img src="https://skillicons.dev/icons?i=c,c++,python,java,mysql,flask,pandas,numpy,matplotlib,seaborn,scikit_learn" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,anaconda" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,flask,sklearn" /><br>
 </div>
 
 <br/>
