@@ -16,7 +16,7 @@
 
 <h3>Current Status</h3>
  
- 🔭 I’m currently working on **Multiple projects **
+ 🔭 I’m currently working on **Various projects**
  
  🌱 I’m currently learning **Machine Learning and Java**
 
@@ -47,15 +47,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,mysql,sklearn" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,mysql,sklearn" />
 </div>
 
 <br/>
 <hr/>
 
 
-<br/><br/>
+<br/>
 
     
 
