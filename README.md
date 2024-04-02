@@ -22,7 +22,7 @@
 
  💬 Ask me about **anything [here](https://github.com/SanketDeshmukh007/SanketDeshmukh007/issues)**
 
- ⚡ Fun fact **The King of Hearts is the only king without a mustache.**
+ ⚡ Fun fact **The first computer virus was created in 1983 by Fred Cohen, a computer scientist.**
 <div>
    <a href="mailto:sanketdeshmukh0606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
