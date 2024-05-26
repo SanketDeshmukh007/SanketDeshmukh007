@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A 3rd year Information Technology Student from GCE,Karad,India</h3>
+<h3 align="center">A B.Tech(IT) Student from Government College of Engineering, Karad, India</h3>
 
 <br/><br/>
 
