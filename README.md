@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A B.Tech(IT) Student from Government College of Engineering, Karad, India</h3>
+<h3 align="center">A B.Tech (IT) Student from Government College of Engineering, Karad, India</h3>
 
 <br/><br/>
 
@@ -16,9 +16,9 @@
 
 <h3>Current Status</h3>
  
- 🔭 I’m currently working on **Various projects**
+ 🔍 I’m currently in search of **internships and full-time job offers.**
  
- 🌱 I’m currently learning **Machine Learning and Java**
+ 📚 I'm learning about **Spring and Spring Boot Java**.
 
  💬 Ask me about **anything [here](https://github.com/SanketDeshmukh007/SanketDeshmukh007/issues)**
 
