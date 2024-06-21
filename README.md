@@ -18,7 +18,7 @@
  
  🔍 I’m currently in search of **internships and full-time job offers.**
  
- 📚 I'm learning about **Spring and Spring Boot Java**.
+ 📚 I'm learning about **Spring Boot Java**.
 
  💬 Ask me about **anything [here](https://github.com/SanketDeshmukh007/SanketDeshmukh007/issues)**
 
