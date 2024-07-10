@@ -27,7 +27,7 @@
    <a href="mailto:sanketdeshmukh0606@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/sanket-deshmukh-a23719234/" target="_blank">
 <!--       sanket-d-31492a249 -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -35,7 +35,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 <!--   </a> -->
 <!--     </a> -->
-  <a href="https://leetcode.com//" target="_blank">
+  <a href="https://leetcode.com/Sanket_Deshmukh_07/" target="_blank">
      <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
